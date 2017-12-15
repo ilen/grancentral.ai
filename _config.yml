@@ -1,2 +1,2 @@
-theme: jekyll-theme-tactile
 name: grancentral
+remote_theme:https://github.com/jekyll/minima
