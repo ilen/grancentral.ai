@@ -1,16 +1,16 @@
 # Site settings
 title: GranCentral
 email: info@grancentral.ai
-url: https://grancentral.ai
+
 description: "Staying connected should be easier than ever today, but it can be challenging with time, distance and busy schedules separating loved ones. GranCentral makes it easy for family to connect with and support the elders they love."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '333'
+  primary-dark: '39A6BD'
   links: '219ab3'
 
 # Footer settings
-footer: Your Website
+footer: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
