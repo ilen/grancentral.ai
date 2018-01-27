@@ -62,7 +62,7 @@ button, input, select, textarea {
   font-size: 100%;
 }
 
-input {
+input, textarea {
     height: 2.5em; /* for IE */
     vertical-align: middle; /* This is optional but it makes legacy IEs look better */
     font-size: 120%;
